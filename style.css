@@ -1,0 +1,28 @@
+body{
+    border: 1px solid black;
+}
+P{
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+
+}
+h5{
+    text-align: center;
+    margin: 0;
+}
+a:visited{
+    color: orangered;
+}
+a{
+    color: black;
+    margin: 15px;
+    text-decoration: none;
+}
+.bordar{
+    border: 1px solid black;
+}
